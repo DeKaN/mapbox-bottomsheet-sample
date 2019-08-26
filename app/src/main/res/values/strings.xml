@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="detecting_locations">Detecting locations</string>
+    <string name="positions_detected">3 positions detected</string>
+</resources>
